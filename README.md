@@ -1,4 +1,4 @@
-# VirtualR: Virtual Reality Software Company Landing Page ✨
+# VirtualR: Virtual Reality Soft. Co. Landing Page ✨
 
 Welcome to the VirtualR landing page repository! VirtualR is a cutting-edge virtual reality software company dedicated to delivering immersive and interactive VR experiences. This landing page serves as a showcase for our services and features.
 
